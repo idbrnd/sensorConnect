@@ -3,7 +3,7 @@ import struct
 def hex_to_short (raw_data) :
     return list (struct. unpack("hhh", bytearray (raw_data)))
 
-DEVICE = '/dev/rfcommo'
+DEVICE = '/dev/rfcomm0'
 BAUD_RATE = 115200
 
 # Connect to the device
