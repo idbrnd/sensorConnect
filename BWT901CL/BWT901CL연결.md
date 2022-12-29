@@ -20,6 +20,11 @@
 
 ![image](https://user-images.githubusercontent.com/53653597/209905454-f03e83f3-3680-49b8-8b57-2e405950c11e.png)
 
+**exit**으로 bluetoothctl에서 빠져 나옵니다
+
+![image](https://user-images.githubusercontent.com/53653597/209907192-ce0d9973-22f4-4222-b758-598feb4d807a.png)
+
+
 ## rfcomm bind
 
 해당 컴퓨터(라즈베리파이)와 바인드 작업을 실행합니다.
