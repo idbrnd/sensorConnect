@@ -2,7 +2,7 @@
 
 # Raspberry PI 와 RC-06(해당 센서) 연결
 
-## RC-06 MAC address 찾기
+## HC-06 MAC address 찾기
 
 ![image](https://user-images.githubusercontent.com/53653597/209905086-49994be0-4bf0-4b33-9563-6096672b10b0.png)
 
